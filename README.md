@@ -1,4 +1,5 @@
 # Simple User Management System
 
-**Admin Email : admin@admin.com
+## Default User
+Email : admin@admin.com<br>
 Password : admin123
