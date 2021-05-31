@@ -1,0 +1,31 @@
+.lightShadow {
+    box-shadow: 0 2px 2px -2px #dee2e6;
+}
+
+.lightBorderBottom {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.alignCenterScreen {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.requiredField {
+    color: red;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.bottom-link {
+    display: block !important;
+    width: 100%;
+}
